@@ -59,6 +59,7 @@ http://localhost:5173/
 **Technologies Used:**
 + React
 + Redux
++ API
 + SCSS
 + Axios
 
